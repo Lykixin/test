@@ -1,2 +1,2 @@
 print("love")
-ad
+print("love")
